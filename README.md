@@ -9,4 +9,4 @@ GriffinMaws/GriffinMaws is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 project creation date: October 3rd, 2023
-
+author: Griffin Mawson
